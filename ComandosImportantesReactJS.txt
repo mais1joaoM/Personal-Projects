@@ -1,0 +1,5 @@
+npm install -g yarn : instala o gerenciador de pacote yarn
+
+npm install -g create-react-app
+
+create-react-app nomeDaAplicacao : cria um app utilisando a ferramenta acima
