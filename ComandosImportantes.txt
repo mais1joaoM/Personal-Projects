@@ -1,2 +1,32 @@
 npm run dev : roda meu servior node 
 docker start mongodb : starta meu database
+
+npm install cors : instala cores. isto permite que outros dominios acessem minha api
+
+mkdir nome-pasta : comando cria diretorio no pc
+
+npm init -y : comando cria package.json(guarda informação da versão das dependencias do projeto)
+
+npm install express : ajuda a lidar com rotas e views
+
+npm install -D nodemon : live server 
+
+npm instal mongoose : instala ferramenta para auxiliar no trabalho com database
+
+npm install mongoose-paginate : ajuda a trabalhar com paginação de require no database
+
+docker pull mongo : baixa imagem de container do mongo
+
+docker run --name nomeDaMaquinaVirtual -p 27017:27017 -d mongo : cria container com mongodb instalado
+
+docker ps : retorna imagens criadas no docker
+
+ferramentas uteis para o desenvolvimento:
+docker
+insomnia
+robo 3t
+vscode
+
+
+
+
