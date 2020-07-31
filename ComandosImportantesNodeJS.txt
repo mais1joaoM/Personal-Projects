@@ -9,17 +9,23 @@ npm init -y : comando cria package.json(guarda informação da versão das depen
 
 npm install express : ajuda a lidar com rotas e views
 
+npm instal body-parser : ajuda no entendimento de parametro json
+
 npm install -D nodemon : live server 
 
 npm instal mongoose : instala ferramenta para auxiliar no trabalho com database
 
 npm install mongoose-paginate : ajuda a trabalhar com paginação de require no database
 
+npm install bcryptjs : esconder senhas
+
 docker pull mongo : baixa imagem de container do mongo
 
 docker run --name nomeDaMaquinaVirtual -p 27017:27017 -d mongo : cria container com mongodb instalado
 
 docker ps : retorna imagens criadas no docker
+
+
 
 ferramentas uteis para o desenvolvimento:
 docker
