@@ -19,6 +19,8 @@ npm install mongoose-paginate : ajuda a trabalhar com paginação de require no 
 
 npm install bcryptjs : esconder senhas
 
+npm install jsonwebtoken : token de validação
+
 docker pull mongo : baixa imagem de container do mongo
 
 docker run --name nomeDaMaquinaVirtual -p 27017:27017 -d mongo : cria container com mongodb instalado
