@@ -1,5 +1,16 @@
+vscode : ctrl + ESPAÇO
+
 npm install -g yarn : instala o gerenciador de pacote yarn
 
 npm install -g create-react-app
 
 create-react-app nomeDaAplicacao : cria um app utilisando a ferramenta acima
+
+yarn create react-app nomeDoApp --template typescript
+
+yarn start : inicia projeto react
+
+yarn add react-router-dom : controle de componentes ativos na tela
+
+yarn add @type/react-router-dom -D
+
